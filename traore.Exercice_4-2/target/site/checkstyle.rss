@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>traore.Exercice_4-2 - Checkstyle report</title>
+    <link>http://maven.apache.org</link>
+    <description>traore.Exercice_4-2 - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2020</copyright>
+    <item>
+      <title>File: 18,
+             Errors: 0,
+             Warnings: 782,
+             Infos: 0
+      </title>
+            <link>http://maven.apache.org/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven.apache.org/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Invoker.java">traore/Exercice_4_2/Invoker.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  34
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Command.java">traore/Exercice_4_2/Command/Command.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.DeclencheurException.java">traore/Exercice_4_2/DeclencheurException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.StorageNbCommand.java">traore/Exercice_4_2/Command/StorageNbCommand.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  36
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.CalculatriceRPN.java">traore/Exercice_4_2/CalculatriceRPN.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undo.java">traore/Exercice_4_2/Command/Undo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  23
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Exception.TailleException.java">traore/Exercice_4_2/Exception/TailleException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.CommandOperater.java">traore/Exercice_4_2/Command/CommandOperater.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  73
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Exception.ErreurSaisieException.java">traore/Exercice_4_2/Exception/ErreurSaisieException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Exception.DivisionParZeroException.java">traore/Exercice_4_2/Exception/DivisionParZeroException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.MoteurRPN.java">traore/Exercice_4_2/MoteurRPN.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  74
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Operation.java">traore/Exercice_4_2/Operation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  85
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.SaisieRPN.java">traore/Exercice_4_2/SaisieRPN.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  229
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undonable.java">traore/Exercice_4_2/Command/Undonable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Quit.java">traore/Exercice_4_2/Command/Quit.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Interpreteur.java">traore/Exercice_4_2/Interpreteur.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  93
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Exception.NombreOperationException.java">traore/Exercice_4_2/Exception/NombreOperationException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Exception.ArgumentPileException.java">traore/Exercice_4_2/Exception/ArgumentPileException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

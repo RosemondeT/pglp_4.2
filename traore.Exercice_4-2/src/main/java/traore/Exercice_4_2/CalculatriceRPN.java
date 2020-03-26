@@ -1,7 +1,13 @@
 package traore.Exercice_4_2;
 
+/**
+ * 
+ * @author traore-mousso
+ * Programme principal de l'application comme un SINGLETON avec une ennumération
+ *
+ */
 public enum CalculatriceRPN {
-calculatrice;
+ENVIRONNEMENT;
 	
 	public void run( String[] args) {
 		SaisieRPN saisie = new SaisieRPN();
@@ -9,8 +15,10 @@ calculatrice;
 	}
 	
 	public static void main( String[] args ) {
-		calculatrice.run(args);
+		ENVIRONNEMENT.run(args);
 		
 	}
 
+	
+	
 }

@@ -88,20 +88,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.StorageNbCommand.java">traore/Exercice_4_2/Command/StorageNbCommand.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  36
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.CalculatriceRPN.java">traore/Exercice_4_2/CalculatriceRPN.java</a>
                 </td>
                 <td>
@@ -116,13 +102,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undo.java">traore/Exercice_4_2/Command/Undo.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.StorageNbCommand.java">traore/Exercice_4_2/Command/StorageNbCommand.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  23
+                  36
                 </td>
                 <td>
                   0
@@ -144,13 +130,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.CommandOperater.java">traore/Exercice_4_2/Command/CommandOperater.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undo.java">traore/Exercice_4_2/Command/Undo.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  73
+                  23
                 </td>
                 <td>
                   0
@@ -165,6 +151,20 @@ under the License.
                 </td>
                 <td>
                   9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.CommandOperater.java">traore/Exercice_4_2/Command/CommandOperater.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  73
                 </td>
                 <td>
                   0
@@ -228,20 +228,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undonable.java">traore/Exercice_4_2/Command/Undonable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Quit.java">traore/Exercice_4_2/Command/Quit.java</a>
                 </td>
                 <td>
@@ -249,6 +235,20 @@ under the License.
                 </td>
                 <td>
                   19
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#traore.Exercice_4_2.Command.Undonable.java">traore/Exercice_4_2/Command/Undonable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
                 <td>
                   0

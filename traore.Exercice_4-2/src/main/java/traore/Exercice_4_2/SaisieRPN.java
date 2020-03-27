@@ -103,7 +103,7 @@ public class SaisieRPN {
 	 * @param str
 	 * @return booléen
 	 */
-	private boolean isOperation(String str) {
+	public boolean isOperation(String str) {
 		return this.renvoieOperation(str) != null;
 	}
 

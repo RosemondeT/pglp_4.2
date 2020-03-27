@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: traore.Exercice_4_2.OperationTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in traore.Exercice_4_2.OperationTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 s - in traore.Exercice_4_2.OperationTest
